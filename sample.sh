@@ -3,4 +3,4 @@ date
 cal
 whoami
 uptime
-pwd
+
